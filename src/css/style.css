@@ -71,7 +71,7 @@ nav a {
     height: 100%;
 }
 
-.card-container {
+.card {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -80,7 +80,7 @@ nav a {
     flex-wrap: wrap;
 }
 
-.card {
+.card-info {
     display: flex;
     align-items: center;
     width: 40%;
@@ -134,11 +134,11 @@ nav a {
         width: 100vw;
     }
 
-    .card-container {
+    .card {
         gap: 30px;
     }
 
-    .card {
+    .card-info {
         width: 100%;
     }
 

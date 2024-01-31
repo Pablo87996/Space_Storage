@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://spacestorage.netlify.app/</loc>
-</url>
-<url>
-  <loc>https://spacestorage.netlify.app/spacemath/raciocinio-logico-aula-0</loc>
-</url>
-<url>
-  <loc>https://spacestorage.netlify.app/spacemath/adicao-aula-1</loc>
-</url>
-<url>
-  <loc>https://spacestorage.netlify.app/spacemath/subtracao-aula-2</loc>
-</url>
-<url>
-  <loc>https://spacestorage.netlify.app/spacemath/multiplicacao-aula-3</loc>
-</url>
-<url>
-  <loc>https://spacestorage.netlify.app/spacemath/divisao-aula-4</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://spacestorage.netlify.app/</loc>
+    <lastmod>2024-01-31T14:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spacestorage.netlify.app/spacemath/raciocinio-logico-aula-0</loc>
+    <lastmod>2024-01-31T14:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spacestorage.netlify.app/spacemath/adicao-aula-1</loc>
+    <lastmod>2024-01-31T14:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spacestorage.netlify.app/spacemath/subtracao-aula-2</loc>
+    <lastmod>2024-01-31T14:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spacestorage.netlify.app/spacemath/multiplicacao-aula-3</loc>
+    <lastmod>2024-01-31T14:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spacestorage.netlify.app/spacemath/divisao-aula-4</loc>
+    <lastmod>2024-01-31T14:41:00Z</lastmod>
+  </url>
 </urlset>
